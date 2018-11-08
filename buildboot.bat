@@ -1,0 +1,1 @@
+nasm RummeryKOTH\boot.asm -f bin -o RummeryKOTH\boot.bin

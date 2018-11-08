@@ -1,0 +1,1 @@
+nasm RummeryKOTH\bootvga.asm -f bin -o RummeryKOTH\bootvga.bin
