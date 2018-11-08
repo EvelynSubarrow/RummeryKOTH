@@ -14,4 +14,4 @@ Names have been redacted from images, and removed from some files. There's also 
 ## Caveats
 * This is a mess. We kept dead code around, switched things out as we needed them, and we enschewed anything resembling efficiency on the basis
 that it offered more CPU time to the enemy.
-* This doesn't contain any exploits. Some of the more entertaining features rely entirely on running under SYSTEM 
+* This doesn't contain any exploits. Some of the more entertaining features rely entirely on running under SYSTEM. This is probably a good thing.
